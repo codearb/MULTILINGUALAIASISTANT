@@ -1,0 +1,9 @@
+SpeechRecognition
+pipwin
+pyaudio
+gTTS
+ollama
+python-dotenv
+streamlit
+
+-e .
